@@ -1,0 +1,15 @@
+
+body{ width: 2480px;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    height: 2px; width: 2480px;color:gray;background-color:gray;
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    box-sizing: content-box;
+    
+}
